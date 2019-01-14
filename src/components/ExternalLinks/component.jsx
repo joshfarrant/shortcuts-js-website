@@ -42,7 +42,7 @@ export default () => (
         href="https://javascriptweekly.com/issues/413"
         target="_blank"
         rel="noopener noreferrer"
-        title="Issue 413"
+        title="Issue 413, Friday 23 November"
       >
         JavaScript Weekly
       </a>
