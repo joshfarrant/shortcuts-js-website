@@ -54,7 +54,7 @@ export default () => (
           GitHub
         </Button>
         <Button
-          href="https://docs.shortcuts.fun/globals.html"
+          href="https://docs.shortcuts.fun"
         >
           Documentation
         </Button>
