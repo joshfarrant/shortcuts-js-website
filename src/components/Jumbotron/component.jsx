@@ -44,7 +44,7 @@ export default () => (
         </span>
       </h1>
       <h3 className={styles.subheading}>
-        Build Apple Shortcuts using JavaScript
+        Create Apple Shortcuts using JavaScript
       </h3>
 
       <div className={styles.buttonContainer}>
