@@ -62,7 +62,7 @@ export default class Component extends React.Component {
             </h2>
             <div className={styles.sectionContent}>
               <p>
-                Shortcuts JS enables you create Shortcuts using JavaScript,
+                Shortcuts JS enables you to create Shortcuts using JavaScript,
                 allowing you to build complex Shortcuts more quickly and easily than ever before.
               </p>
               <p>
